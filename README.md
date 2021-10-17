@@ -3,7 +3,7 @@
 This is a student project for practicing the HLS pragmas with **Xilinx Vitis_hls**. The example of this chapter is the matrix multiplication problem.
 
 ## Reports
-The report of various pragma experiences are in the .pptx file.
+The report of various pragma experiments are in the report.pdf file.
 
 ## Optimizations
 There are multiple ways to pipeline the loops:
